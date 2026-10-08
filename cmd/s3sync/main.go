@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jvkec/aws-s3sync/internal/aws"
-	"github.com/jvkec/aws-s3sync/internal/config"
-	"github.com/jvkec/aws-s3sync/internal/fileutils"
-	"github.com/jvkec/aws-s3sync/internal/sync"
+	"github.com/johnkimec/aws-s3sync/internal/aws"
+	"github.com/johnkimec/aws-s3sync/internal/config"
+	"github.com/johnkimec/aws-s3sync/internal/fileutils"
+	"github.com/johnkimec/aws-s3sync/internal/sync"
 	"github.com/spf13/cobra"
 )
 
