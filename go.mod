@@ -1,4 +1,4 @@
-module github.com/jvkec/aws-s3sync
+module github.com/johnkimec/aws-s3sync
 
 go 1.24.1
 

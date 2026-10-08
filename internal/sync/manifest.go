@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/jvkec/aws-s3sync/internal/fileutils"
+	"github.com/johnkimec/aws-s3sync/internal/fileutils"
 )
 
 // manifest represents the sync state of files
